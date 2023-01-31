@@ -12,5 +12,3 @@ for i in range(1000, 700000):
                 completerNums.append(i)
 print(completerNums)
 print(len(completerNums))
-# print(completerNums.index(123321))
-    
